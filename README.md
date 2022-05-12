@@ -1,6 +1,4 @@
 # Taskbar Separators
-Basic icons to divide the Windows taskbar.
-
 ![image](https://user-images.githubusercontent.com/25148746/168115219-8c21e7ee-f1d8-477b-9d06-aee6ea3c94d0.png)
 
 
