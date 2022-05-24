@@ -12,4 +12,3 @@ If you need more, just copy one of the .exe files and make sure it has a unique 
 Icons can be changed by creating your own shortcuts with your chosen icon file.
 
 Each file is just essentially a blank program that immediately closes, not meant to be run, but if you accidentally click them you shouldn't have to close any windows.
-You can build them from code yourself if it makes you feel safer. (doNothing.cpp)
